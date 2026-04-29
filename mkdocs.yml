@@ -1,0 +1,23 @@
+# site_name: learning-notes
+# site_url: https://<yourname>.github.io/learning-notes/
+# docs_dir: docs
+
+# theme:
+#   name: material
+#   language: ja
+
+# plugins:
+#   - search
+
+# markdown_extensions:
+#   - pymdownx.arithmatex:
+#       generic: true
+#   - pymdownx.highlight:       # コードシンタックスハイライト
+#       anchor_linenums: true
+#   - pymdownx.superfences      # コードブロック拡張
+#   - admonition                # ノート・警告ブロック（!!! note など）
+#   - toc:
+#       permalink: true         # 各見出しにアンカーリンクを付ける
+
+# extra_javascript:
+#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
